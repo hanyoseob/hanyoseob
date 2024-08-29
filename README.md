@@ -1,7 +1,7 @@
 
 # Yoseob Han, Ph.D. 🎓  
 
- <img height="280px" align="left" alt="hanyoseob" src="./res/photo.png" style="margin-right: 50px;" />
+ <img height="200px" align="left" alt="hanyoseob" src="./res/photo.png" style="margin-right: 50px;" />
 
 - ##### Assistant Professor
 - ##### Department of Electronic Engineering
