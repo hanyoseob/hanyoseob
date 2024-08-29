@@ -1,7 +1,7 @@
 
 # Yoseob Han, Ph.D. 🎓  
 
- <img height="260px" align="left" alt="hanyoseob" src="./res/photo.png" style="margin-right: 50px;" />
+ <img height="280px" align="left" alt="hanyoseob" src="./res/photo.png" style="margin-right: 50px;" />
 
 - ##### Assistant Professor
 - ##### Department of Electronic Engineering, IT Convergence Major
@@ -9,7 +9,7 @@
 - ##### 🏠 Room 302, Faculty Research Building
 - ##### ☎️ +82 02-828-7150
 - ##### ✉️ yoseob.han@ssu.ac.kr
-- <a href="https://www.linkedin.com/in/hanyoseob/"> <img align="center" alt="Yoseob Han's Linkdein" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  style="margin-right: 10px;" /> </a> <a href="https://github.com/hanyoseob"> <img align="center" alt="Yoseob Han's Github" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" style="margin-right: 10px;" /> </a> <a href="https://scholar.google.com/citations?user=awRbnvQAAAAJ&hl=en"> <img align="center" alt="Yoseob Han's Google Scholar" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" style="margin-right: 10px;" /> </a>
+- <a href="https://www.linkedin.com/in/yoseob-han-650988127/"> <img align="center" alt="Yoseob Han's Linkdein" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  style="margin-right: 10px;" /> </a> <a href="https://github.com/hanyoseob"> <img align="center" alt="Yoseob Han's Github" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" style="margin-right: 10px;" /> </a> <a href="https://scholar.google.com/citations?user=awRbnvQAAAAJ&hl=en"> <img align="center" alt="Yoseob Han's Google Scholar" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" style="margin-right: 10px;" /> </a>
 
 ---
 
@@ -18,8 +18,8 @@
 <br />
 <div align=left>
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyoseob&layout=compact&theme=dracula" height="200px">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanyoseob&show_icons=true&theme=dracula" height="200px">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyoseob&layout=compact&theme=dracula" height="150px">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanyoseob&show_icons=true&theme=dracula" height="150px">
 </a>
 </div>
 <br />
