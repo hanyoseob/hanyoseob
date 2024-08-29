@@ -1,7 +1,6 @@
 
 # Yoseob Han, Ph.D. 🎓  
-
- <img height="200px" align="left" alt="hanyoseob" src="./res/photo.png" style="margin-right: 50px;" />
+<img height="200px" align="left" alt="hanyoseob" src="./res/photo.png" style="margin-right: 50px;" />
 
 - ##### Assistant Professor
 - ##### Department of Electronic Engineering
@@ -15,7 +14,6 @@
 <!-- --- -->
 
 # Recent Activities 🔬
-
 <br />
 <div align=left>
 <a>
@@ -24,7 +22,6 @@
 </a>
 </div>
 <br />
-
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green) ![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
